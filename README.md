@@ -1,4 +1,4 @@
-# Python-basics
+# Basic-games-with-python
 
 **1 TIC_TAC_TOE:**
 
